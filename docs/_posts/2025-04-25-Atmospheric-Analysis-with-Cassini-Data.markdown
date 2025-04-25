@@ -10,4 +10,4 @@ Used Python and scikit-learn to identify and measure atmospheric features on Tit
 
 [github-repo]: https://github.com/yourusername/project-repo
 
-![Titan Surface Brightness](/././images/incemis.gif "A gif of Titan's surface brightness from varying angles")
+![Titan Surface Brightness](/../../images/incemis.gif "A gif of Titan's surface brightness from varying angles")
