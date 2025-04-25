@@ -6,8 +6,9 @@ categories: jekyll update
 ---
 Used Python and scikit-learn to identify and measure atmospheric features on Titan using imagery from NASA Cassini's Imaging Science Subsystem.
 
-     <a href="https://github.com/yourusername/project-repo">GitHub Repo →</a>
+[GitHub Repo][github-repo]
 
+[github-repo]: https://github.com/yourusername/project-repo
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
